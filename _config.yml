@@ -6,15 +6,15 @@ email: yang_lu (at) whu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-# keywords: Lu Yang, natural language processing, music comprehension and generation, LDNet, ZIQI-Eval
-# description: This is Lu Yang's academic homepage.
-# canonical: https://lu-yang666.github.io/
+keywords: Lu Yang, natural language processing, music comprehension and generation, LDNet, ZIQI-Eval
+description: This is Lu Yang's academic homepage.
+canonical: https://lu-yang666.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-# github_link: https://github.com/Lu-Yang666
+github_link: https://github.com/Lu-Yang666
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
