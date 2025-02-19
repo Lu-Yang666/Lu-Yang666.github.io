@@ -6,7 +6,7 @@ main:
     conference: Findings of the Association for Computational Linguistics, 2024.
     pdf: https://arxiv.org/pdf/2406.15885
     code: https://github.com/zcli-charlie/ziqi-eval
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bKR9aTH3YV4J:scholar.google.com/&output=citation&scisdr=ClG1OjsEEIn5-wNVR7U:AFWwaeYAAAAAZ7VTX7USVbs_ANFusFqKuUkzFNI&scisig=AFWwaeYAAAAAZ7VTX0l9vti4PeM8StRqS8T33Gk&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/tasks_1_00.jpg
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
