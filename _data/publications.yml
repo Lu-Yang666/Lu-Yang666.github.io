@@ -9,8 +9,8 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bKR9aTH3YV4J:scholar.google.com/&output=citation&scisdr=ClG1OjsEEIn5-wNVR7U:AFWwaeYAAAAAZ7VTX7USVbs_ANFusFqKuUkzFNI&scisig=AFWwaeYAAAAAZ7VTX0l9vti4PeM8StRqS8T33Gk&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/tasks_1_00.jpg
 
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  # - title: "Towards Harmless Multimodal Assistants with Blind Preference Optimization"
+  #   authors: Yongqi Li, Lu Yang, Jian Wang, Runyang You, Wenjie Li, Liqiang Nie
   #   conference_short: CVPR
   #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
   #   pdf: https://arxiv.org/pdf/2002.10211.pdf
