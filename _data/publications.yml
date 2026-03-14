@@ -1,5 +1,23 @@
 main:
+  - title: "Towards Harmless Multimodal Assistants with Blind Preference Optimization"
+    authors: Yongqi Li, <strong>Lu Yang</strong>, Jian Wang, Runyang You, Wenjie Li, Liqiang Nie
+    conference_short: ACM MM
+    conference: Proceedings of the 33rd ACM International Conference on Multimedia, 2025.
+    pdf: https://arxiv.org/abs/2503.14189
+    code: https://github.com/Lu-Yang666/MMsafe-PO
+    page: https://lu-yang666.github.io/MMsafe-PO-Web/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:QDqkkWhqSo4J:scholar.google.com/&output=citation&scisdr=Cl8u7n3nEIPn63kdI1o:AFtJQiwAAAAAabUbO1rEKe079g-ZkKyXXrda88Y&scisig=AFtJQiwAAAAAabUbO3iBC8Vwl-HJxJPDs_zmekk&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/pipeline_small_low_compressed_01.png
 
+  - title: Label Drop for Multi-Aspect Relation Modeling in Universal Information Extraction
+    authors: Lu Yang, Jiajia Li, En Ci, Lefei Zhang, Zuchao Li*, Ping Wang(*Corresponding author)
+    conference_short: NAACL
+    conference: Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics, 2025.
+    pdf: https://aclanthology.org/2025.naacl-long.259.pdf
+    code: https://github.com/Lu-Yang666/LDNet
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:F95Jf44CRIoJ:scholar.google.com/&output=citation&scisdr=Cl8u7n3nEIPn63kbwlk:AFtJQiwAAAAAabUd2lk84ZRQaSokD6UOq3dGTYA&scisig=AFtJQiwAAAAAabUd2mDhf3R-mOVHAJvprsP8qhA&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/multi-modal-LDNet_01.png
+    
   - title: The Music Maestro or The Musically Challenged, A Massive Music Evaluation Benchmark for Large Language Models
     authors: Jiajia Li†, <strong>Lu Yang†</strong>, Mingni Tang†, Cong Chen, Zuchao Li*, Ping Wang*, Hai Zhao(†Equal authors, *Corresponding authors)
     conference_short: ACL Findings
@@ -8,14 +26,3 @@ main:
     code: https://github.com/zcli-charlie/ziqi-eval
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bKR9aTH3YV4J:scholar.google.com/&output=citation&scisdr=ClG1OjsEEIn5-wNVR7U:AFWwaeYAAAAAZ7VTX7USVbs_ANFusFqKuUkzFNI&scisig=AFWwaeYAAAAAZ7VTX0l9vti4PeM8StRqS8T33Gk&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/tasks_1_00.jpg
-
-  # - title: "Towards Harmless Multimodal Assistants with Blind Preference Optimization"
-  #   authors: Yongqi Li, Lu Yang, Jian Wang, Runyang You, Wenjie Li, Liqiang Nie
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
