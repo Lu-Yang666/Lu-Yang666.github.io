@@ -14,9 +14,5 @@ Currently, my research spans the following areas:
 * **Multi-Agent Decision Making**: Exploring strategic coordination, competition, and communication in multi-agent systems.
 * **Information Extraction & Representation**
 
-% ## News
-
-%- **[May. 2024]** Our paper about music evaluation is accepted to ACL-Findings 2024.
-
 {% include_relative _includes/publications.md %}
 
